@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F9D5A7&height=300&section=header&text=YUNJEONG%20CHOI&fontSize=90&fontColor=2d2424)
 
 <div align="center">
-        <p>• 👨‍💻 안녕하세요. 주니어 개발자 최윤정입니다.</b></p>
-        <p>• 📚 현재 웹 공부를 하고 있습니다.</b></p>
-        <p>• 📧 <b>yeshan0224@naver.com</b></p>
+        <p> 👨‍💻 <b>안녕하세요🖐 주니어 개발자 최윤정입니다</b></p>
+        <p> 📚 <b>웹 개발을 공부하고 있어요💻</b></p>
+        <p> 📧 <b>yeshan0224@naver.com</b></p>
 </div><br>
 
 <div align=center>
