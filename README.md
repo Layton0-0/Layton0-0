@@ -3,10 +3,11 @@
 <div align="center">
         <p>• 👨‍💻 안녕하세요. 주니어 개발자 최윤정입니다.</b></p>
         <p>• 📚 현재 웹 공부를 하고 있습니다.</b></p>
-        <p>• 📧 이메일: <b>yeshan0224@naver.com</b></p>
+        <p>• 📧 <b>yeshan0224@naver.com</b></p>
 </div><br>
 
 <div align=center>
+        
 ## Full Stack Developer
     
 ### BEST
