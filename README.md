@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F9D5A7&height=300&section=header&text=YUNJEONG%20CHOI&fontSize=90&fontColor=2d2424)
 
 <div align="center">
-        <p> 👨‍💻 <b>안녕하세요🖐 주니어 개발자 최윤정입니다</b></p>
-        <p> 📚 <b>웹 개발을 공부하고 있어요💻</b></p>
+        <p> 👨‍💻 <b>Hello🖐 My name is Yunjeong Choi, junior developer</b></p>
+        <p> 📚 <b>Studying web development💻</b></p>
         <p> 📧 <b>0224cyj@gmail.com</b></p>
-        <p> ✨ <b>Portfolio:
+        <p> ✨ <b>Portfolio(Ko):
         https://drive.google.com/file/d/18aLculpwV4YlWC5BJVmasWXc5IgY0Te4/view?usp=sharing </b></p>
 </div><br>
 
