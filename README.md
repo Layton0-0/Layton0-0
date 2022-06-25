@@ -17,7 +17,7 @@
 [![java badge](https://img.shields.io/badge/java-007396?logo=java&logoColor=white&style=for-the-badge)]()
 [![mysql badge](https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge)]()
 
-### Knowledgeable
+### Useable
 [![html badge](https://img.shields.io/badge/html-E34F26?logo=html5&logoColor=white&style=for-the-badge)]()
 [![css badge](https://img.shields.io/badge/css-1572B6?logo=css3&logoColor=white&style=for-the-badge)]()
 [![javascript badge](https://img.shields.io/badge/javascript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge)]()
