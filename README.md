@@ -5,7 +5,7 @@
         <p> 📚 <b>Studying web development💻</b></p>
         <p> 📧 <b>0224cyj@gmail.com</b></p>
         <p> ✨ <b>Portfolio(Ko):
-        https://drive.google.com/file/d/18aLculpwV4YlWC5BJVmasWXc5IgY0Te4/view?usp=sharing </b></p>
+        https://drive.google.com/file/d/1zpkGmtbvf1Wv1cHq-w7qEeo1RczH6W9_/view?usp=sharing </b></p>
 </div><br>
 
 <div align=center>
